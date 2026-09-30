@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# local data and captures (may contain people)
+capture/
+data/
+Converted_Data/
+processed_data/
